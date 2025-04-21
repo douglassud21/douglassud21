@@ -1,6 +1,6 @@
 <!-- Banner ou GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Douglas%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Douglas%20Nascimento&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">

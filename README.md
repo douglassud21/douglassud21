@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7D300&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+%7C+Banco+de+Dados+%7C+Docker;Interface+moderna+%2B+Alta+Performance;Sempre+aprendendo+e+evoluindo!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7D300&center=true&vCenter=true&width=435&lines=Front-End+Developer;Análista-e-desenvolvedor-de-sistemas;Engenharia-de-software%2B;Sempre+aprendendo+e+evoluindo!" />
 </p>
 
 ---

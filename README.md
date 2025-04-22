@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Douglas%20Nascimento&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Texto digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7D300&center=true&vCenter=true&width=435&lines=Front-End+Developer;Análista-e-desenvolvedor-de-sistemas;Engenharia-de-software%2B;Sempre+aprendendo+e+evoluindo!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7D300&center=true&vCenter=true&width=500&lines=Front-End+Developer;Analista+e+Desenvolvedor+de+Sistemas;Engenharia+de+Software%2B;Sempre+aprendendo+e+evoluindo!" />
 </p>
-
 ---
 
 ## 👨‍💻 Sobre mim

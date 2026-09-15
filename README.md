@@ -92,7 +92,7 @@ Meu portfólio para apresentar meus estudos, projetos e evolução na área de t
 * CSS
 * JavaScript
 
-🔗 [Acessar portfólio]([https://douglassud21.github.io/port_doug/](https://douglassud21.github.io/portfolio-pessoal/))
+🔗 [Acessar portfólio](https://douglassud21.github.io/portfolio-pessoal/)
 
 ---
 
